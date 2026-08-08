@@ -1,1 +1,1 @@
-# FACTORY-MANAGEMENT
+A C++ factory management simulation built around a custom-built indexed priority queue (min/max heap + hash map for O(log n) removal and priority updates). The system models customer orders flowing through specialized production units, tracks raw material and finished goods inventory, and supports order scheduling, unit failure/repair handling, and order modification — all through an interactive console menu.
